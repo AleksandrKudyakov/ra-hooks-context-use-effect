@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7fu300l169v2avek/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-hooks-context-use-effect/branch/main)
