@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-hooks-context-use-effect/static/css/main.9fc66b06.css",
+    "main.js": "/ra-hooks-context-use-effect/static/js/main.00d6bd04.js",
+    "static/js/787.a12cf6de.chunk.js": "/ra-hooks-context-use-effect/static/js/787.a12cf6de.chunk.js",
+    "index.html": "/ra-hooks-context-use-effect/index.html",
+    "main.9fc66b06.css.map": "/ra-hooks-context-use-effect/static/css/main.9fc66b06.css.map",
+    "main.00d6bd04.js.map": "/ra-hooks-context-use-effect/static/js/main.00d6bd04.js.map",
+    "787.a12cf6de.chunk.js.map": "/ra-hooks-context-use-effect/static/js/787.a12cf6de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fc66b06.css",
+    "static/js/main.00d6bd04.js"
+  ]
+}
